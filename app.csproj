@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{656BA9D8-DCD6-4488-AB53-5F0C0141D10F}</ProjectGuid>
+    <ProjectGuid>{4DDCC795-43CE-4CE5-8EE6-92120868794C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>app</RootNamespace>
     <AssemblyName>app</AssemblyName>
@@ -52,10 +52,9 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Data.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Productos.cs" />
+    <Compile Include="Ventas.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

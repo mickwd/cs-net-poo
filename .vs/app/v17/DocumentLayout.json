@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\csharp-data\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{656BA9D8-DCD6-4488-AB53-5F0C0141D10F}|app.csproj|c:\\users\\admin\\desktop\\csharp-data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656BA9D8-DCD6-4488-AB53-5F0C0141D10F}|app.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DDCC795-43CE-4CE5-8EE6-92120868794C}|app.csproj|c:\\users\\admin\\desktop\\csharp-data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DDCC795-43CE-4CE5-8EE6-92120868794C}|app.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{656BA9D8-DCD6-4488-AB53-5F0C0141D10F}|app.csproj|c:\\users\\admin\\desktop\\csharp-data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656BA9D8-DCD6-4488-AB53-5F0C0141D10F}|app.csproj|solutionrelative:data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656BA9D8-DCD6-4488-AB53-5F0C0141D10F}|app.csproj|c:\\users\\admin\\desktop\\csharp-data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{656BA9D8-DCD6-4488-AB53-5F0C0141D10F}|app.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4DDCC795-43CE-4CE5-8EE6-92120868794C}|app.csproj|C:\\Users\\admin\\Desktop\\csharp-data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDCC795-43CE-4CE5-8EE6-92120868794C}|app.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\csharp-data\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\csharp-data\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T23:38:24.621Z",
+              "WhenOpened": "2025-08-02T20:40:41.274Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\csharp-data\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\csharp-data\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAADwv18AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T23:40:50.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\csharp-data\\Data.cs",
-              "RelativeDocumentMoniker": "Data.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\csharp-data\\Data.cs",
-              "RelativeToolTip": "Data.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T23:35:47.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T20:40:42.615Z"
             }
           ]
         }
