@@ -10,7 +10,7 @@ namespace app
     {
         public string Codigo { get; set; }
         public int Importe { get; set; }
-        public Ventas Siguiente { get; set; }
+        public Ventas Siguiente { get; set; } // Permite que este todo enlazado (Importante).
 
         public Ventas(string _codigo, int _importe)
         {
