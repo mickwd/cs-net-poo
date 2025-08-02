@@ -11,4 +11,4 @@ No esta 100% terminado. Solo falta terminar de codear las validaciones de los in
 
 En caso de querer. Podes seguir haciendo más triggers para actualizar el *data-grid-view*. Actualmente solo se actualiza cuando agregas, modificas o eliminas información.
 
-Se valora una ⭐!
+Se valora una `star` arriba a la derecha!
