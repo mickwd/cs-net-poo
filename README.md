@@ -7,4 +7,3 @@
 - [BL/Gallinero.cs](https://github.com/mickwd/csharp-poo/blob/master/BL/Gallinero.cs)
 - [BL/GallinaException](https://github.com/mickwd/csharp-poo/blob/master/BL/GallinaException.cs)
 
-Se valora una `star` en el repo.
