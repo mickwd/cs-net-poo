@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("BL")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("https://dsc.gg/kernelos")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("BL")]
-[assembly: AssemblyCopyright("Copyright © https://dsc.gg/kernelos 2025")]
+[assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("2cb7d045-8c36-4dbe-8abe-1b2c0eaafa65")]
+[assembly: Guid("313e5f1d-4db6-4981-aa06-4ba3d0c09710")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Thiago.Properties
+namespace restaurante.Properties
 {
 
 

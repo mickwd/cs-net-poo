@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Thiago
+namespace restaurante
 {
     internal static class Program
     {
