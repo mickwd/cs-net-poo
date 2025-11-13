@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\musimundo\musimundo\bin\Debug\musimundo.exe.config
+C:\Users\admin\Desktop\musimundo\musimundo\bin\Debug\musimundo.exe
+C:\Users\admin\Desktop\musimundo\musimundo\bin\Debug\musimundo.pdb
+C:\Users\admin\Desktop\musimundo\musimundo\obj\Debug\musimundo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\musimundo\musimundo\obj\Debug\musimundo.Form1.resources
+C:\Users\admin\Desktop\musimundo\musimundo\obj\Debug\musimundo.Properties.Resources.resources
+C:\Users\admin\Desktop\musimundo\musimundo\obj\Debug\musimundo.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\musimundo\musimundo\obj\Debug\musimundo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\musimundo\musimundo\obj\Debug\musimundo.exe
+C:\Users\admin\Desktop\musimundo\musimundo\obj\Debug\musimundo.pdb
+C:\Users\admin\Desktop\musimundo\musimundo\obj\Debug\musimundo.exe.config
