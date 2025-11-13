@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\restaurante\restaurante\bin\Debug\restaurante.exe.config
+C:\Users\admin\Desktop\restaurante\restaurante\bin\Debug\restaurante.exe
+C:\Users\admin\Desktop\restaurante\restaurante\bin\Debug\restaurante.pdb
+C:\Users\admin\Desktop\restaurante\restaurante\bin\Debug\BL.dll
+C:\Users\admin\Desktop\restaurante\restaurante\bin\Debug\BL.pdb
+C:\Users\admin\Desktop\restaurante\restaurante\obj\Debug\restaurante.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\restaurante\restaurante\obj\Debug\restaurante.Form1.resources
+C:\Users\admin\Desktop\restaurante\restaurante\obj\Debug\restaurante.Properties.Resources.resources
+C:\Users\admin\Desktop\restaurante\restaurante\obj\Debug\restaurante.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\restaurante\restaurante\obj\Debug\restaurante.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\restaurante\restaurante\obj\Debug\restaura.A34C02FC.Up2Date
+C:\Users\admin\Desktop\restaurante\restaurante\obj\Debug\restaurante.exe
+C:\Users\admin\Desktop\restaurante\restaurante\obj\Debug\restaurante.pdb
+C:\Users\admin\Desktop\restaurante\restaurante\obj\Debug\restaurante.exe.config
