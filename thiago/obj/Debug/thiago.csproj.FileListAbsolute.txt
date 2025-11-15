@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\thiago\thiago\obj\Debug\thiago.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\thiago\thiago\obj\Debug\thiago.Form1.resources
+C:\Users\admin\Desktop\thiago\thiago\obj\Debug\thiago.Properties.Resources.resources
+C:\Users\admin\Desktop\thiago\thiago\obj\Debug\thiago.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\thiago\thiago\obj\Debug\thiago.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\thiago\thiago\bin\Debug\thiago.exe.config
+C:\Users\admin\Desktop\thiago\thiago\bin\Debug\thiago.exe
+C:\Users\admin\Desktop\thiago\thiago\bin\Debug\thiago.pdb
+C:\Users\admin\Desktop\thiago\thiago\bin\Debug\BL.dll
+C:\Users\admin\Desktop\thiago\thiago\bin\Debug\BL.pdb
+C:\Users\admin\Desktop\thiago\thiago\obj\Debug\thiago.csproj.Up2Date
+C:\Users\admin\Desktop\thiago\thiago\obj\Debug\thiago.exe
+C:\Users\admin\Desktop\thiago\thiago\obj\Debug\thiago.pdb
+C:\Users\admin\Desktop\thiago\thiago\obj\Debug\thiago.exe.config

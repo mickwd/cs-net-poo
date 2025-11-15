@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\thiago\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\thiago\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\thiago\BL\bin\Debug\BL.dll
+C:\Users\admin\Desktop\thiago\BL\bin\Debug\BL.pdb
+C:\Users\admin\Desktop\thiago\BL\obj\Debug\BL.dll
+C:\Users\admin\Desktop\thiago\BL\obj\Debug\BL.pdb
